@@ -1,6 +1,6 @@
-customhost = "database-table.cruq67uutafa.ap-south-1.rds.amazonaws.com"
+customhost = "empproject09.cruq67uutafa.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "adminadmin"
-customdb = "employ"
+customdb = "empproject09"
 custombucket = "dataemployee001"
 customregion = "Asia Pacific (Mumbai) ap-south-1"
